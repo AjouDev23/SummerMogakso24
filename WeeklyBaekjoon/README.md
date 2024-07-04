@@ -16,3 +16,15 @@
 생성한 폴더에 푼 문제 번호로, 제출 코드 업로드
 
 readme는 안 적고 코드만 올려도 됨
+
+## 👥 참여자들 백준 아이디
+
+허태림 - [taerim0](https://www.acmicpc.net/user/taerim0) 
+
+노승현 - [tmdgus0245](https://www.acmicpc.net/user/tmdgus0245) 
+
+현서호 - [hyunsh313](https://www.acmicpc.net/user/hyunsh313)
+
+오단비 -
+
+설만수 -
