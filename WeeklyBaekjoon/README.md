@@ -2,6 +2,8 @@
 
 ![CatComputerGIF](https://github.com/AjouDev23/SummerMogakso24/assets/127942413/3bd20f53-aef6-4728-8748-c67042e9b9e6)
 
+[VELOG](https://velog.io/@taerim0/24-1-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C-baekjoon-0-%EC%9B%8C%EB%B0%8D%EC%97%85)
+
 ## ❓ 어케 돌아가는가
 
 문제 선정은 허태림이 주마다 다섯 문제 선정
