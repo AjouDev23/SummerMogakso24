@@ -27,7 +27,6 @@ int main()
 			if (i > 0 && str[i - 1] == '2')
 				point += 2;
 			point++;
-
 			geunCnt++;
 
 			if (geunCnt > 2)
