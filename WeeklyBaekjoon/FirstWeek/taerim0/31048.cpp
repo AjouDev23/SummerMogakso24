@@ -15,7 +15,6 @@ int main()
 	cin >> T;
 
 	for (int i = 0; i < T; i++) {
-		
 		cin >> N;
 
 		int value = 1;
