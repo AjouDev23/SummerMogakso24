@@ -7,3 +7,8 @@
 - Silver 5 - [[17857] Musical Chairs](https://www.acmicpc.net/problem/17857)
 - Bronze 2 - [[12605] 단어순서 뒤집기](https://www.acmicpc.net/problem/12605)
 - Silver 4 - [[1835] 카드](https://www.acmicpc.net/problem/1835)
+
+### 특별 문제 2
+
+> Prefix Sum
+- Gold 5 - [[25682] 체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)
