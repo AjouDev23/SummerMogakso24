@@ -29,6 +29,6 @@ readme는 안 적고 코드만 올려도 됨
 
 현서호 - [hyunsh313](https://www.acmicpc.net/user/hyunsh313)
 
-오단비 -
+오단비 - [thisisdanbi1102](https://www.acmicpc.net/user/thisisdanbi1102)
 
 설만수 -
