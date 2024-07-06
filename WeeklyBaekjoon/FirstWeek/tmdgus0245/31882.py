@@ -1,20 +1,17 @@
 import sys
 N=int(sys.stdin.readline())
-S=sys.stdin.readline().rstrip()
-geun=1
-for i in range(1,N):
-    if(i==1):
-        for j in range(N-1):
-            if(S[j]!=S[j+1]):
-                geun+=1
-    else:
-        k=0
-        while(k+i<N):
-            for l in range(1,i):
-                if(S[k]!=S[k+l]):
-                    k+=l
-                    break
-            else:
-                geun+=i
-                k+=i
-print(geun)
+S=sys.stdin.readline()
+geunNum=0
+s = S.find('2')
+while(s!=-1):
+    e=s
+    while(e!='\n'):
+        if(S[e+1]=='2'):
+            e+=1
+        else:
+            break
+    i=e-s+1
+    geunNum += i*(i+1)*(i+2)//6
+    S=S[e+1:]
+    s = S.find('2')
+print(geunNum)
