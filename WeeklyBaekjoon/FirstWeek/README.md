@@ -7,4 +7,8 @@
 - Silver 5 - [[31924] 현대모비스 특별상의 주인공은? 2](https://www.acmicpc.net/problem/31924)
 - Silver 4 - [[31882] 근수](https://www.acmicpc.net/problem/31882)
 
-### 특별 문제!
+### 특별 문제! (안 풀어도 됨)
+
+> Dynamic Programming & Union Find
+- Gold 3 - [[20303] 할로윈의 양아치](https://www.acmicpc.net/problem/20303)
+
