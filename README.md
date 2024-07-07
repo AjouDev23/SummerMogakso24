@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/AjouDev23/SummerMogakso24/assets/127942413/f55cb48a-b90d-432d-8ee8-5cf84e7558a7" width="300" height="300">
   <br>
-  <a href="https://velog.io/@taerim0/2024-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C-ISP">모임 사진 VELOG</a>
+  <a href="https://velog.io/@taerim0/2024-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C-ISP"><img src="https://velog-readme-stats.vercel.app/api?name=taerim0&slug=2024-하계모각소-ISP&color=dark"></a>
 </div>
 
 <br>
@@ -51,3 +51,9 @@
 ### 🎸 오단비
 ### 🪖 허태림
 ### 🥋 현서호
+
+## 📃 모임 세부정보
+
+|Date|Object|Participants|
+|-|-|-|
+|07.07. 00:00|활동 내용 및 목표 세부화||
