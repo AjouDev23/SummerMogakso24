@@ -13,7 +13,7 @@ void forcounting(char *str)
         {
             length++;
 
-            if (str[i + 1] != '2')
+            if (str[i + 1] != '2' || i == N - 1)
             {
                 for (long long j = 1; j < length + 1; j++)
                 {
@@ -23,7 +23,7 @@ void forcounting(char *str)
             }
         }
     }
-    printf("%d", total);
+    printf("%lld", total);
 }
 
 int main()
