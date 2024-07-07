@@ -2,6 +2,8 @@
 
 <div align="center"><img src="https://github.com/AjouDev23/SummerMogakso24/assets/127942413/f55cb48a-b90d-432d-8ee8-5cf84e7558a7" width="300" height="300"></div>
 
+<br>
+
 ## 🧑‍💻 참여자
 
 |🥸 노승현|🧞‍♂️ 설만수|🎸 오단비|🪖 허태림|🥋 현서호|
