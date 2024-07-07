@@ -2,6 +2,7 @@
 
 기한 :: **07.15. ~ 07.21.**
 
+- Bronze 2 - [[15122] Forbidden Zero](https://www.acmicpc.net/problem/15122)
 - Bronze 1 - [[25643] 문자열 탑 쌓기](https://www.acmicpc.net/problem/25643)
 
 ### 특별 문제 3
