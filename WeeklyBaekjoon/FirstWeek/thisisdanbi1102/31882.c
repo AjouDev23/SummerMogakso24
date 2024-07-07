@@ -15,10 +15,7 @@ void forcounting(char *str)
 
             if (str[i + 1] != '2')
             {
-                for (long long j = 1; j < length + 1; j++)
-                {
-                    total += j * (length - j + 1);
-                }
+                
                 length = 0;
             }
         }
