@@ -2,7 +2,13 @@
 
 ![CatComputerGIF](https://github.com/AjouDev23/SummerMogakso24/assets/127942413/3bd20f53-aef6-4728-8748-c67042e9b9e6)
 
-[VELOG](https://velog.io/@taerim0/24-1-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C-baekjoon-0-%EC%9B%8C%EB%B0%8D%EC%97%85)
+<div>
+<a href="https://github.com/AjouDev23/SummerMogakso24/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AjouDev23/SummerMogakso24" />
+</a>
+<br>
+<a href="https://velog.io/@taerim0/24-1-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C-baekjoon-0-%EC%9B%8C%EB%B0%8D%EC%97%85">벨로벨로벨로그</a>
+</div>
 
 ## ❓ 어케 돌아가는가
 
