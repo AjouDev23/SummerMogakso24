@@ -28,7 +28,7 @@ void forcounting(char *str)
 
 int main()
 {
-    scanf("%d\n", &N);
+    scanf("%d", &N);
 
     char strnum[N + 1];
 
