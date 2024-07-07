@@ -1,9 +1,9 @@
 # ✨ 아주대학교 2024 하계모각소 - Team ISP
 
 <div align="center">
-  <img src="https://github.com/AjouDev23/SummerMogakso24/assets/127942413/f55cb48a-b90d-432d-8ee8-5cf84e7558a7" width="300" height="300">
+  <img src="https://github.com/AjouDev23/SummerMogakso24/assets/127942413/f55cb48a-b90d-432d-8ee8-5cf84e7558a7" width="450" height="450">
   <br>
-  <a href="https://velog.io/@taerim0/2024-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C-ISP"><img src="https://velog-readme-stats.vercel.app/api?name=taerim0&slug=2024-하계모각소-ISP&color=dark"></a>
+  <a href="https://velog.io/@taerim0/2024-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C-ISP"><img src="https://velog-readme-stats.vercel.app/api?name=taerim0&slug=2024-하계모각소-ISP" width="450"></a>
 </div>
 
 <br>
@@ -56,5 +56,5 @@
 
 |Date|Object|Participants|
 |-|-|-|
-|07.04. 00:00|활동 내용 및 목표 세부화|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/tjfakstn-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-darkgreen"> <img src="https://img.shields.io/badge/tmdgus0245-darkgreen"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-darkgreen">|
-|07.07. 23:30|깃허브 및 깃크라켄 사용법 강의, spring boot 프로젝트 intellij 연결|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-darkgreen"> <img src="https://img.shields.io/badge/tmdgus0245-darkgreen"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-darkgreen">|
+|07.04. 00:00|활동 내용 및 목표 세부화|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/tjfakstn-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-skyblue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-darkgreen">|
+|07.07. 23:30|깃허브 및 깃크라켄 사용법 강의, spring boot 프로젝트 intellij 연결|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-skyblue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-darkgreen">|
