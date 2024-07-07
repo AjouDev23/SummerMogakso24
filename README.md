@@ -4,11 +4,12 @@
 
 ## 🧑‍💻 참여자
 
-- 🥸 노승현 - 아주대학교 소프트웨어학과 2학년
-- 🧞‍♂️ 설만수 - 아주대학교 소프트웨어학과 2학년
-- 🎸 오단비 - 아주대학교 소프트웨어학과 2학년
-- 🪖 허태림 - 아주대학교 소프트웨어학과 2학년
-- 🥋 현서호 - 아주대학교 소프트웨어학과 2학년
+|🥸 노승현|🧞‍♂️ 설만수|🎸 오단비|🪖 허태림|🥋 현서호|
+|-|-|-|-|-|
+|<img src="https://avatars.githubusercontent.com/u/128346463?v=4" width="125">|<img src="https://avatars.githubusercontent.com/u/166008010?v=4" width="125">|<img src="https://avatars.githubusercontent.com/u/63053280?v=4" width="125">|<img src="https://avatars.githubusercontent.com/u/127942413?v=4" width="125">|<img src="https://avatars.githubusercontent.com/u/138036591?v=4" width="125">|
+|SW 2학년|SW 2학년|SW 2학년|SW 2학년|SW 2학년|
+|재학|재학|재학|휴학|재학|
+|[tmdgus0245](https://github.com/tmdgus0245)|[tjfakstn](https://github.com/tjfakstn)|[danbi1102](https://github.com/danbi1102)|[taerim0](https://github.com/taerim0)|[HYUN-SEO-HO](https://github.com/HYUN-SEO-HO)|
 
 ## ⚙️ 프로젝트
 
