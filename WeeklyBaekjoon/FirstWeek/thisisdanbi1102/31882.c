@@ -4,8 +4,8 @@ int N;
 
 int forcounting(char *str)
 {
-    int total = 0;
-    int length = 0;
+    long long total = 0;
+    long long length = 0;
 
     for (int i = 0; i < N; i++)
     {
