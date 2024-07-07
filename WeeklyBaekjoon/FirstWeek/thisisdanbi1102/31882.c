@@ -13,7 +13,7 @@ int forcounting(char *str)
         {
             length++;
 
-            if (str[i + 1] != '2' || i >= N)
+            if (str[i + 1] != '2' || i >= N - 1)
             {
                 for (int j = 1; j < length + 1; j++)
                 {
