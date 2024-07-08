@@ -56,5 +56,5 @@
 
 |Date|Object|Participants|
 |-|-|-|
-|07.04. 00:00|활동 내용 및 목표 세부화|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/tjfakstn-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-blue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-3BFF04">|
+|07.04. 00:00|활동 내용 및 목표 세부화|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/tjfakstn-darkred"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-blue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-3BFF04">|
 |07.07. 23:30|깃허브 및 깃크라켄 사용법 강의, spring boot 프로젝트 intellij 연결|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-blue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-3BFF04">|
