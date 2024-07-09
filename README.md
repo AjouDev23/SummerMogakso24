@@ -50,6 +50,9 @@
 각자 하는 활동
 
 ### 🥸 노승현
+- NHN Cloud Basic 수료
+  - NHN Cloud Hands on Lab 첫걸음
+  - NHN Cloud로 Kubernetes 기초 다지기
 ### 🧞‍♂️ 설만수
 ### 🎸 오단비
 ### 🪖 허태림
