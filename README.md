@@ -34,13 +34,21 @@
 다섯명 다 하는 활동
 
 ### 🧑‍💻 WeeklyBaekjoon
-> 주마다 브론즈 ~ 골드 난이도의 백준 풀기 - [Link](https://github.com/AjouDev23/SummerMogakso24/tree/main/WeeklyBaekjoon)
+- 주마다 브론즈 ~ 골드 난이도의 백준 풀기 - [Link](https://github.com/AjouDev23/SummerMogakso24/tree/main/WeeklyBaekjoon)
 
-### 🐾 깃허브 강의
-> 허태림이 깃허브 강의함 - Link
+### 🐾 깃 & 깃허브 강의
+- 허태림이 깃 & 깃허브 강의함 - [Link](https://velog.io/@taerim0/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8D%94-%EC%9E%98-%EC%8D%A8%EB%B3%B4%EA%B8%B0)
+  - Git
+    - Upload (git add, commit, push)
+    - Download (git pull, fetch)
+    - Branch (git branch, checkout, switch)
+  - Github
+    - Issues, PR
+    - Projects
+    - Wiki
 
 ### ☁️ 클라우드 강의
-> 허태림이 클라우드 강의함 - Link
+- 허태림이 클라우드 강의함 - Link
 
 ### ⚒️ 기술 공부
 - 🌿 Spring Boot 학습
