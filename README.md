@@ -42,6 +42,9 @@
 ### ☁️ 클라우드 강의
 > 허태림이 클라우드 강의함 - Link
 
+### ⚒️ 기술 공부
+- 🌿 Spring Boot 학습
+
 ## 👤 개인 활동
 
 각자 하는 활동
@@ -50,12 +53,16 @@
 ### 🧞‍♂️ 설만수
 ### 🎸 오단비
 ### 🪖 허태림
+- NHN Cloud Basic 수료
+  - NHN Cloud Training : Cloud Essentials
+  - NHN Cloud Hands on Lab 첫걸음
+  - NHN Cloud로 Kubernetes 기초 다지기
 ### 🥋 현서호
 
 ## 📃 모임 세부정보
 
 |Date|Object|Participants|
 |-|-|-|
-|07.04. 00:00|활동 내용 및 목표 세부화|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/tjfakstn-darkred"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-blue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-3BFF04">|
+|07.04. 00:00|활동 내용 및 목표 구체화|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/tjfakstn-darkred"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-blue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-3BFF04">|
 |07.06. 23:30|깃허브 및 깃크라켄 사용법 강의, spring boot 프로젝트 intellij 연결|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-blue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-3BFF04">|
 |07.07. 16:00|위클리백준 1주차 풀이|<img src="https://img.shields.io/badge/taerim0-darkgreen"> <img src="https://img.shields.io/badge/danbi1102-F6F89B"> <img src="https://img.shields.io/badge/tmdgus0245-blue"> <img src="https://img.shields.io/badge/HYUN--SEO--HO-3BFF04">|
