@@ -55,12 +55,14 @@
   - NHN Cloud로 Kubernetes 기초 다지기
 ### 🧞‍♂️ 설만수
 ### 🎸 오단비
+- 자료구조, 알고리즘
 ### 🪖 허태림
 - NHN Cloud Basic 수료
   - NHN Cloud Training : Cloud Essentials
   - NHN Cloud Hands on Lab 첫걸음
   - NHN Cloud로 Kubernetes 기초 다지기
 ### 🥋 현서호
+- 리눅스로 공부하는 해킹 완
 
 ## 📃 모임 세부정보
 
