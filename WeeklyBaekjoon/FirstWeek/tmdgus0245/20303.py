@@ -9,22 +9,16 @@ for j in range(M):
     k,l = map(int,sys.stdin.readline().split())
     if(gr[k-1][0]<gr[l-1][0]):
         if(gr[l-1][0]!=l-1):
-            t=l
-            while(gr[t-1][0]!=t-1):
-                l=gr[t-1][0]+1
-                gr[t-1][0]=gr[k-1][0]
-                t=l
-            gr[t-1][0]=gr[k-1][0]
+            while(gr[l-1][0]!=l-1):
+                l=gr[l-1][0]+1
+            gr[l-1][0]=gr[k-1][0]
         else:
             gr[l-1][0]=gr[k-1][0]
     else:
         if(gr[k-1][0]!=k-1):
-            t=k
-            while(gr[t-1][0]!=t-1):
-                k=gr[t-1][0]+1
-                gr[t-1][0]=gr[l-1][0]
-                t=k
-            gr[t-1][0]=gr[l-1][0]
+            while(gr[k-1][0]!=k-1):
+                k=gr[k-1][0]+1
+            gr[k-1][0]=gr[l-1][0]
         else:
             gr[k-1][0]=gr[l-1][0]
 kidsAndCandies=[[0,0]for _ in range(N)]
@@ -38,8 +32,9 @@ for m in range(N):
 for f in range(N):
     if(kidsAndCandies[f][1]!=0):
         roots.append(kidsAndCandies[f])
-dp = [[0]*(K+1) for _ in range(len(roots))]
-for i in range(1,len(roots)):
+length=len(roots)
+dp = [[0]*(K+1) for _ in range(length)]
+for i in range(1,length):
     for j in range(1,K+1):
         kids = roots[i][0]
         candies = roots[i][1]
@@ -47,4 +42,4 @@ for i in range(1,len(roots)):
             dp[i][j]=dp[i-1][j]
         else:
             dp[i][j]=max(dp[i-1][j],dp[i-1][j-kids]+candies)
-print(dp[len(roots)-1][K])
+print(dp[length-1][K])
