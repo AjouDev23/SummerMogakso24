@@ -11,4 +11,4 @@
 ### 특별 문제 3
 
 > Breadth First Search & Bitmasking
-- Gold 1 - [[1194] 달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)
+- Gold 1 - [[1194] 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
