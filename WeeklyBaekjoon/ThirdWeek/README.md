@@ -10,4 +10,5 @@
 
 ### 특별 문제 3
 
-> Depth First Search
+> Breadth First Search & Bitmasking
+- Gold 1 - [[1194] 달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)
