@@ -12,4 +12,4 @@
 ### 특별 문제 3
 
 > Greedy, Priority queue, Sort
-- Gold 3 - [[13904] 과](https://www.acmicpc.net/problem/13904)
+- Gold 3 - [[13904] 과제](https://www.acmicpc.net/problem/13904)
