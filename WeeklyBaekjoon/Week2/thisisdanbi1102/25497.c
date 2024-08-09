@@ -5,6 +5,7 @@ int main()
     scanf("%d", &N);
     getchar();
 
+<<<<<<< HEAD
     char skillbox[200000];
     scanf("%s", skillbox);
 
